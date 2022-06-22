@@ -34,7 +34,7 @@ If you download the zip file, extract it from Finder or with the following comma
 <h4>Use Homebrew</h4>
 Install Inso CLI using Homebrew with the following command:
 <br/><br/>
-<pre class="highlight"><code>brew install inso</code></pre>
+<pre class="highlight"><code>brew install --cask inso</code></pre>
 Check that Inso CLI was properly installed with the following command:
 <br/><br/>
 <pre class="highlight"><code>inso --version</code></pre>
